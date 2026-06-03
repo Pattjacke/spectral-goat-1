@@ -16,9 +16,9 @@
   },
   "devDependencies": {
     "bower": "^1.8.8",
-    "less": "~2",
+    "less": "3.0.0-RC.1",
     "onchange": "^6.0.0",
-    "po2json": "^0.4.5",
+    "po2json": "1.0.0-alpha",
     "requirejs": "^2.3.6"
   },
   "dependencies": {}

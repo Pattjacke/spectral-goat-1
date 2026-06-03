@@ -14,7 +14,7 @@
     }
   },
   "devDependencies": {
-    "doctoc": "^1.4.0",
+    "doctoc": "2.2.0",
     "husky": "^4.3.0"
   }
 }
